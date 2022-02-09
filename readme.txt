@@ -13,7 +13,8 @@ A WordPress plugin for learning how to write a WordPress plugin.
  
 Currently: 
 Adds a sentence at the end of all blog posts asking readers to follow us on 
-social media if they liked the current article. 
+social media if they liked the current article. Also includes the Hello Dolly
+plugin: https://en-ca.wordpress.org/plugins/hello-dolly/
  
 == Installation ==
  
