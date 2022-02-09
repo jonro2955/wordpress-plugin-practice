@@ -14,7 +14,10 @@ A WordPress plugin for learning how to write a WordPress plugin.
 Currently: 
 Adds a sentence at the end of all blog posts asking readers to follow us on 
 social media. Also includes the Hello Dolly plugin from 
-https://en-ca.wordpress.org/plugins/hello-dolly/
+https://en-ca.wordpress.org/plugins/hello-dolly/. 
+The folder containing this readme and the 2 php files must be placed inside
+the following directory inside the website's CMS files: 
+/home/literacynowburna/public_html/wp-content/plugins
  
 == Installation ==
  
